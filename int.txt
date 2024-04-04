@@ -1,64 +1,64 @@
 "[13:30] Virtual Agent: Welcome to bioMérieux IS Support. An agent will be with you shortly.
 Bienvenue au Support IS bioMérieux. Vous allez être mis en relation avec un agent.
-[13:31] System: LAMY Yan a rejoint.
-[13:31] LAMY Yan: Bonjour, merci d'avoir patienté. Comment puis-je vous aider ?
-[13:31] MERIEUX Faustine: Bonjour, sur LL j'ai bloqué les permissions sur 2 dossiers, je n'ai plus accès
-[13:32] MERIEUX Faustine: https://doclink/livelink/llisapi.dll?func=ll&objId=20657178&objAction=browse     il s'agit de ses 2 dossiers
-[13:33] MERIEUX Faustine: @L[https://biomerieux.service-now.com/api/now/v2/cs/media/xVpZMrWUmqk8mmMbynHHWlgjn4rf3sC7l9dy8o9Nx2D5pyaNo7sICdxE8c92KsR7|Capture.PNG]
+[13:31] System: LL YY a rejoint.
+[13:31] LL YY: Bonjour, merci d'avoir patienté. Comment puis-je vous aider ?
+[13:31] MM FF: Bonjour, sur LL j'ai bloqué les permissions sur 2 dossiers, je n'ai plus accès
+[13:32] MM FF: https://link1     il s'agit de ses 2 dossiers
+[13:33] MM FF: @L[https://link2]
 
-[13:33] MERIEUX Faustine: @L[https://biomerieux.service-now.com/api/now/v1/cs/media/xVpZMrWUmqk8mmMbynHHWlgjn4rf3sC7l9dy8o9Nx2D5pyaNo7sICdxE8c92KsR7|Capture.PNG]
-[13:33] LAMY Yan: merci de suivre ce lien afin d'effectuer une demande d'acces:
-[13:33] LAMY Yan: https://biomerieux.service-now.com/esc?id=sc_cat_item&sys_id=eeb197bf871c45d05f894116cebb3528
-[13:35] MERIEUX Faustine: ok
-[13:36] MERIEUX Faustine: c'est quel accès qui ne faut pas décoché ? car dans les permissions j'avais plusieurs groupes j'ai voulu tous les décocher et mettre juste en ""SEE"" et j'ai eu un message d'erreur alors que j'avais pas fait DONE et ça m'a bloqué
-[13:37] LAMY Yan: je ne comprends pas votre question.
-[13:39] MERIEUX Faustine: @L[https://biomerieux.service-now.com/api/now/v2/cs/media/fivRk58e49vWRtNx6UxLXKiq9niOTAsnJnxHRH9hinlxhYrUm4zUiUbm2giP8V97|ffffff.PNG]
+[13:33] MM FF: @L[http://link3]
+[13:33] LL YY: merci de suivre ce lien afin d'effectuer une demande d'acces:
+[13:33] LL YY: https://link4
+[13:35] MM FF: ok
+[13:36] MM FF: c'est quel accès qui ne faut pas décoché ? car dans les permissions j'avais plusieurs groupes j'ai voulu tous les décocher et mettre juste en ""SEE"" et j'ai eu un message d'erreur alors que j'avais pas fait DONE et ça m'a bloqué
+[13:37] LL YY: je ne comprends pas votre question.
+[13:39] MM FF: @L[https://link5|ffffff.PNG]
 
-[13:39] MERIEUX Faustine: @L[https://biomerieux.service-now.com/api/now/v1/cs/media/fivRk58e49vWRtNx6UxLXKiq9niOTAsnJnxHRH9hinlxhYrUm4zUiUbm2giP8V97|ffffff.PNG]
-[13:40] MERIEUX Faustine: parmi ces groupes il y en a qu'on peut pas enlever sinon ça fait bloquer et je ne sais pas c'est lequel
-[13:45] LAMY Yan: je ne comprends toujours pas, je suis desole.
-[13:56] LAMY Yan: pourriez-vous preciser ?
-[15:01] System: LAMY Yan a terminé la conversation.
+[13:39] MM FF: @L[https://link6|ffffff.PNG]
+[13:40] MM FF: parmi ces groupes il y en a qu'on peut pas enlever sinon ça fait bloquer et je ne sais pas c'est lequel
+[13:45] LL YY: je ne comprends toujours pas, je suis desole.
+[13:56] LL YY: pourriez-vous preciser ?
+[15:01] System: LL YY a terminé la conversation.
 [15:01] System: La conversation est terminée
 [15:01] System: Vous pouvez télécharger la transcription de cette conversation
-[15:01] Virtual Agent: @L[https://biomerieux.service-now.com/va_link.do?token=77ee77ef77eSNzBkNWJjNDU0NzVmOTUxMDliMzAxYjYxZTM2ZDQzZjbvt6zvt5Qx77es77etd194ZTNyRTBPUXFQZl93X1NNMElkdz09aE90eHJ0SkhCVzJDY3dXa0d3VEk4WVVHcm44dnlmdlRMdjVpUnVDN1ZNOW15ZUhzcldUWkc2UFA1WmxRdmh4WFVBc2ZhQ01XdWhVTElhNjFMdnlfUC02LTZRdl8xNFZrWUkwNnNNVkw2LUVYbWt4ZUUtVUJXY3h5Vjd1b1FxTWJ4WWRRUGR0Z3NPd2kyZlpBTmxUUEtNTFBNQ1I5aUduczlpWklPazNo77eu77ev&target_url=https%3A%2F%2Fbiomerieux.service-now.com%2Fdownload_agent_transcript.do%3Fsysparm_sys_id%3Dc594226497f006d4b958facfe153af6c|Télécharger ]
+[15:01] Virtual Agent: @L[https://link7|Télécharger ]
 [15:01] Virtual Agent: Thank you for using bioMérieux Chat Support.
 Merci d'avoir utilisé le support Tchat bioMérieux.
 "
 "[14:37] Virtual Agent: Welcome to bioMérieux IS Support. An agent will be with you shortly.
 Bienvenue au Support IS bioMérieux. Vous allez être mis en relation avec un agent.
-[14:37] System: BEBENEK Iwona a rejoint.
-[14:37] BEBENEK Iwona: Bonjour, merci d'avoir patienté. Comment puis-je vous aider ?
-[14:37] BEBENEK Iwona: Bonjour
-[14:38] MAZUIR Jerome: Bonjour, je voulais juste vous prévenir que je viens d'ouvrir le ticket INC 1335562 car nos intérimaires du jour sont bloqués et e peuvent pas se déplacer seuls pour leur job. Merci de votre aide
-[14:40] BEBENEK Iwona: Je vois que ce ticket est escalade au niveau deix
-[14:40] BEBENEK Iwona: je mentionne l'urgence
-[14:45] MAZUIR Jerome: Merci !
-[15:00] BEBENEK Iwona: je vous en prie
-[15:00] BEBENEK Iwona: au revoir
-[15:00] BEBENEK Iwona: Bonne journee
-[15:00] System: BEBENEK Iwona a terminé la conversation.
+[14:37] System: BB II a rejoint.
+[14:37] BB II: Bonjour, merci d'avoir patienté. Comment puis-je vous aider ?
+[14:37] BB II: Bonjour
+[14:38] MM JJ: Bonjour, je voulais juste vous prévenir que je viens d'ouvrir le ticket INC 1335562 car nos intérimaires du jour sont bloqués et e peuvent pas se déplacer seuls pour leur job. Merci de votre aide
+[14:40] BB II: Je vois que ce ticket est escalade au niveau deix
+[14:40] BB II: je mentionne l'urgence
+[14:45] MM JJ: Merci !
+[15:00] BB II: je vous en prie
+[15:00] BB II: au revoir
+[15:00] BB II: Bonne journee
+[15:00] System: BB II a terminé la conversation.
 [15:00] System: La conversation est terminée
 [15:00] System: Vous pouvez télécharger la transcription de cette conversation
-[15:00] Virtual Agent: @L[https://biomerieux.service-now.com/va_link.do?token=77ee77ef77eSNzBkNWJjNDU0NzVmOTUxMDliMzAxYjYxZTM2ZDQzZjbvt6zvt5Qx77es77etZkxxajVCYWlBQ2ZjcmJMMGtiaEdRUT09VlE0TVJoWDlLU2F4cWpXUXNBdnNpc202SXgwQm9uMHdnbWJhLU14YUFubUt2V1dkREt4SUUtTTFoYl9XeDlUd00yOEZkVWRyUmhkb3hQcTVXTXZDVnZmTU5lQlhjYkJPWjJXcnBrbUljTUhoYzBDRFZWMWcyTHJiZFpWeDd6WEFPZExiRHVLQkUwek9XLTF2cDZjS0NVVmVIcHI5Y3diNDZtYjMtcnF677eu77ev&target_url=https%3A%2F%2Fbiomerieux.service-now.com%2Fdownload_agent_transcript.do%3Fsysparm_sys_id%3D62b3fe28973086d4b958facfe153af28|Télécharger ]
+[15:00] Virtual Agent: @L[https://link8|Télécharger ]
 [15:00] Virtual Agent: Thank you for using bioMérieux Chat Support.
 Merci d'avoir utilisé le support Tchat bioMérieux.
 "
 "[08:50] Virtual Agent: Welcome to bioMérieux IS Support. An agent will be with you shortly.
 Bienvenue au Support IS bioMérieux. Vous allez être mis en relation avec un agent.
-[08:51] System: HEBBAR Shilpa has joined.
-[08:51] HEBBAR Shilpa: Hello, thank you for waiting. How may I help you ?
+[08:51] System: HH SS has joined.
+[08:51] HH SS: Hello, thank you for waiting. How may I help you ?
 [08:52] KATHREIN Sean: Good morning, can you guess what I need help with again? Lol
 Another asset needing a bitlocker recovery key. This one is a shared laptop that we give to new techs until they get their own laptop.
 IT06468
-Recovery KeyID: 32E22D45-8540-4274-B0C0-0095DA2A16AD
-[08:53] HEBBAR Shilpa: Yes, Sure. I can get the recovery key ?? 
-[08:54] HEBBAR Shilpa: 538263-348117-411466-478346-238161-566324-146212-470547
-[08:54] HEBBAR Shilpa: Please let me know if it works. 
+Recovery KeyID: 32xxxxxxxxxxxxxxx
+[08:53] HH SS: Yes, Sure. I can get the recovery key ?? 
+[08:54] HH SS: 5555555555555555555-470547
+[08:54] HH SS: Please let me know if it works. 
 [08:56] KATHREIN Sean: Just got in. Thank you Shilpa for you help like always. Maybe one day I won't just need you for bitlocker keys lol.
-[08:57] HEBBAR Shilpa: No problem! ha-ha, sure! Happy to help! 
-[08:57] HEBBAR Shilpa: Is there anything else I can help with?
-[08:57] KATHREIN Sean: Nope that is all for now. Thanks again and have a great rest of you day!
-[08:57] HEBBAR Shilpa: Thanks, you too! 
-[08:57] HEBBAR Shilpa: I would like to inform you that the ticket will be closed for the issue that is resolved, post which you will receive an email to take up a short survey. I would appreciate your feedback which will help us improve our services.
+[08:57] HH SS: No problem! ha-ha, sure! Happy to help! 
+[08:57] HH SS: Is there anything else I can help with?
+[08:57] KK SS: Nope that is all for now. Thanks again and have a great rest of you day!
+[08:57] HH SS: Thanks, you too! 
+[08:57] HH SS: I would like to inform you that the ticket will be closed for the issue that is resolved, post which you will receive an email to take up a short survey. I would appreciate your feedback which will help us improve our services.
 Thank you for contacting IS support. Have a good day ahead. 
